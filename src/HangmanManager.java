@@ -3,11 +3,6 @@
         Created: 1/26/18
         Last_Updated: 1/29/18
 
-"Whether you eat or drink, or in everything that
-you do, do it for the glory of God."
-*/
-
-/*
 HangmanManager is a class that is utilized by HangmanMain. Its purpose is to store, test and locate values
 which are given by the user in HangmanMain. This class cheats by not choosing a word, but instead choosing every word
 with the guessed letter sequence.
@@ -179,3 +174,8 @@ public class HangmanManager {
         }
     }
 }
+
+/*
+* "Whether you eat or drink, or whatever you do
+*  do it all for the glory of God."
+ */
